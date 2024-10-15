@@ -36,8 +36,8 @@
 # salary_with_bonus = add_bonus(salary, bonus)
 # print(salary_with_bonus)
 
-from utility import *
+# from utility import *
 
-nice_function()
-not_bad("Test string")
+# nice_function()
+# not_bad("Test string")
 
